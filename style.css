@@ -1,0 +1,77 @@
+html {
+    font-family: 'Inter', sans-serif;
+    background-color:#fdf6f6;
+}
+
+
+body {
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden; 
+    background-color:#fdf6f6; 
+    font-weight:400;
+    font-style: normal; 
+    color: #1d1b1b; 
+    font-size: 0.875rem;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'DM Serif Display', serif;
+}
+
+.header { 
+    padding-top: 7.1875rem; 
+    padding-bottom: 2.5rem;
+}
+
+.emphasis {
+    font-family: 'Inter', sans-serif; 
+    color: #1d1b1b; 
+    font-size: 1rem; 
+    font-weight: 600; 
+    text-transform: uppercase;
+}
+
+.banner-section { 
+    text-align: left; 
+    margin-bottom: 7.5rem;
+}
+
+.heading, .heading-inner { 
+    font-size: 4.375rem; 
+    line-height:6rem; 
+    margin-bottom:2.1875rem;
+}
+
+.heading span { 
+    border-bottom:15px solid #A6F3E7;
+}
+
+.banner-section p {
+    font-size: 1rem;
+    line-height: 1.875rem;
+    margin-bottom: 1.125rem;
+}
+
+.about_content {
+    padding: 0.875rem 0;
+}
+
+.lets_section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.lets_section h4 { 
+    font-family: 'Inter', sans-serif; 
+    font-weight: 700; 
+    font-size:4.375rem;
+    text-decoration: none;
+    color: #1d1b1b;
+}
+
+.lets_section span, a { 
+    font-size:1.125rem; 
+    padding-bottom: 7.1875rem;
+    color: #1d1b1b;
+}
